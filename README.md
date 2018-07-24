@@ -543,8 +543,7 @@ The budget for 2013 is still not quite closed. The tables below are in AUD.
 ### Income
 Income came from few sources:
 
-
-Who         | Amount     | For Contact                                       |
+Who         | Amount     | For                                               | Contact
 ------------|------------|---------------------------------------------------|-------------
 CSIRO       | $1,000     | Keynote Speaker airfaires                         | Guido Zuccon
 QUT-IFE     | $1,000     | Cocktail for poster session                       | L. Sitbon
