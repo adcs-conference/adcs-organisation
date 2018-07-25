@@ -1,6 +1,7 @@
 # Things you might want to know when running ADCS
 
-Andrew Trotman, Paul Thomas, Andrew Turpin, Laurianne Sitbon December 2013
+Originally created: Andrew Trotman, Paul Thomas, Andrew Turpin, Laurianne Sitbon December 2013
+Updated: Bevan Koopman & Guido Zuccon 2017
 
 ## Introduction
 
